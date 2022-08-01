@@ -1,6 +1,3 @@
-*{
-    border: 1px dotted greenyellow;
-}
 
 body{
     background-color:black;
@@ -34,7 +31,7 @@ body{
 }
 
 .h1{
-    margin: 8px 0px;
+    margin: 8px 5px;
     font-size: 8px;
 }
 
@@ -60,15 +57,21 @@ font-size: 26px;
 .post-footer{
     background-color: white;
     width: 400px;
-    height: 200px;
+    height: fit-content;
 }
 
 .footer-icons{
     display:flex;
     margin: 10px 10px;
 }
+
+.footer-likes{
+    margin-top: 20px;
+}
+
 .fa-regular{
     font-size: 23px;
+    margin-right: 5px;
 }
 
 .fa-bookmark{
