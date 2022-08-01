@@ -62,3 +62,18 @@ font-size: 26px;
     width: 400px;
     height: 200px;
 }
+
+.footer-icons{
+    display:flex;
+    margin: 10px 10px;
+}
+.fa-regular{
+    font-size: 23px;
+}
+
+.fa-bookmark{
+    margin-left: auto;
+}
+p{
+    margin: 10px;
+}
